@@ -1,0 +1,15 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root/AirBnB_clone_v4/web_flask/static/styles
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.ob
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../                                                                                
+./
+w3c_validator.py*
+3-footer.css
+3-header.css
+4-common.css
+6-filters.css
+8-places.css
